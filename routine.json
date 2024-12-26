@@ -1,0 +1,79 @@
+{
+    "Tuesday": {
+        "Period 1": "",
+        "Period 2": "",
+        "Period 3": "",
+        "Period 4": "4",
+        "Period 5": "2",
+        "Period 6": "2",
+        "Period 7": "7",
+        "Period 8": "7",
+        "Period 9": "7"
+    },
+    "Wednesday": {
+        "Period 1": "",
+        "Period 2": "8",
+        "Period 3": "9",
+        "Period 4": "1",
+        "Period 5": "1",
+        "Period 6": "1",
+        "Period 7": "",
+        "Period 8": "",
+        "Period 9": ""
+    },
+    "Sunday": {
+        "Period 1": "",
+        "Period 2": "",
+        "Period 3": "",
+        "Period 4": "9",
+        "Period 5": "6",
+        "Period 6": "4",
+        "Period 7": "3",
+        "Period 8": "3",
+        "Period 9": "3"
+    },
+    "Monday": {
+        "Period 1": "",
+        "Period 2": "",
+        "Period 3": "",
+        "Period 4": "8",
+        "Period 5": "4",
+        "Period 6": "6",
+        "Period 7": "",
+        "Period 8": "",
+        "Period 9": ""
+    },
+    "Saturday": {
+        "Period 1": "",
+        "Period 2": "8",
+        "Period 3": "",
+        "Period 4": "9",
+        "Period 5": "6",
+        "Period 6": "2",
+        "Period 7": "5",
+        "Period 8": "5",
+        "Period 9": "5"
+    },
+    "Thursday": {
+        "Period 1": "",
+        "Period 2": "",
+        "Period 3": "",
+        "Period 4": "",
+        "Period 5": "",
+        "Period 6": "",
+        "Period 7": "",
+        "Period 8": "",
+        "Period 9": ""
+    },
+    "Friday": {
+        "Period 1": "",
+        "Period 2": "",
+        "Period 3": "",
+        "Period 4": "",
+        "Period 5": "",
+        "Period 6": "",
+        "Period 7": "",
+        "Period 8": "",
+        "Period 9": ""
+    }
+}
